@@ -27,14 +27,14 @@ The objective is to determine the function *g* and the values *v<sub>k</sub>* wh
 Let the image given in figure 1
 
 <p align="center">
-  <img src="Images/camera.pgm"><br>
+  <img src="Images/camera.png"><br>
   Fig. 1: Image before compression.
 </p>
 
 This can be reduced to 2 shades of gray as shown in Figure 2
 
 <p align="center">
-  <img src="Images/compressed.pgm"><br>
+  <img src="Images/compressed.png"><br>
   Fig. 2: Compression image.
 </p>
 
