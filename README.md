@@ -35,7 +35,7 @@ This can be reduced to 2 shades of gray as shown in Figure 2
 
 <p align="center">
   <img src="Images/compressed.png"><br>
-  Fig. 2: Compression image.
+  Fig. 2: Compressed image.
 </p>
 
 ## Implementation
